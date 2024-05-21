@@ -1,14 +1,14 @@
 ### Hi there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<h1 align="center">Senior Web & Blockchain Developer.</h1>
+<h1 align="center">Frontend Developer</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Web%20and%20Blockchain%20developer;6+%2B%20years%20of%20coding%20experience Being%20passionate%20and%20creative&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Responsive%20Design;React%20|%20Angular%20|%20Vue&center=true&width=500&height=45">
   </a>
 </p>
 
   <p>
-With 6+ years of full-stack web development experience for global businesses, I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my bachelor's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services.
+I offer the technical expertise you are seeking for your web and mobile developer position advertised on IT. Since earning my master's degree in internet and web development from University, I have served as developer, designer. In this position, I have led web and mobile development projects for clients in diverse industries including technology, manufacturing, pharmaceutical, hospitality, F&B, retail and financial services.
 
   </p>
 </div>
